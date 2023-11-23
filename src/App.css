@@ -4,6 +4,7 @@
   box-sizing: border-box;
   outline: none;
 }
+
 body{
   width: 100%;
   background-color: #fff;
@@ -35,4 +36,8 @@ li{
 } */
 .justify-content-center{
   justify-content: center;
+}
+/* this one is removing that warning which shows on flex"0.8  */
+.main-display{
+  display: flex;
 }

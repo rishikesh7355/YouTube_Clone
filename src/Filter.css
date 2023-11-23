@@ -1,0 +1,11 @@
+.filter{
+    flex: 0.8;
+    max-height: 50px;
+    margin: 0 200px;
+}
+span.filter-items{
+    font-size: 16px;
+    padding: 10px 15px;
+    border-radius: 20px;
+    border: 1px solid #9e9e9e5c;
+}
