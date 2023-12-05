@@ -1,11 +1,21 @@
 .filter{
+    position: absolute;
     flex: 0.8;
     max-height: 50px;
-    margin: 0 200px;
+    top: 12%;
+    margin-left: 250px;
 }
 span.filter-items{
-    font-size: 16px;
-    padding: 10px 15px;
-    border-radius: 20px;
+    font-size: 14px;
+    padding: 8px 15px;
+    border-radius: 10px;
     border: 1px solid #9e9e9e5c;
+    background-color: whitesmoke;
+    margin: 0px 6px;
+}
+span.filter-items.active{
+    background-color: #000;
+    border: none;
+    margin: 0px 10px;
+    color: #fff;
 }
