@@ -1,3 +1,6 @@
+# Screenshot of final view
+![image](https://github.com/rishikesh7355/YouTube_Clone/assets/54662528/8354119f-db44-4180-a69a-8b773350f2a3)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
