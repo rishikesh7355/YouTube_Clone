@@ -83,7 +83,7 @@ function Sidebar() {
                 <span className="sidebar-text">Aaj Tak</span>
             </div>
             <div className="sidebar-items d-flex align-items-center">
-                <img id="img" draggable="false" className="style-scope yt-img-shadow" height="24" width="24" alt="" src="https://yt3.ggpht.com/y1F4EOGuP19nZcBlzcyCtnHiYhkAOPQiRxwKeaGrOjXarUZZjcx_heiDiC06_Qj6ERea_qWK9A=s88-c-k-c0x00ffffff-no-rj"></img>
+                <img id="img" draggable="false" className="style-scope yt-img-shadow" height="24" width="24" alt="" src="https://yt3.ggpht.com/ytc/APkrFKZKgGzdubzPHWv93ioZkQ1FGX4HhMOZGEsoHQrc_5U=s88-c-k-c0x00ffffff-no-rj"></img>
                 <span className="sidebar-text">T-Series</span>
             </div>
             <div className="sidebar-items d-flex align-items-center">
